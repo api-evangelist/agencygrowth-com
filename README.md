@@ -66,7 +66,7 @@
 
 Agency Growth provides AI-powered agents that help marketing agencies automate content creation, client outreach, and revenue growth. Their platform offers tools for generating social media posts, videos, and carousels, as well as AI-driven lead generation and client retention solutions. The service includes a customizable Growth Plan, white‑label AI agents, and integrations with popular tools, aiming to boost agency efficiency and scale without hiring additional staff.
 
-**Areas:** Marketing · AI · Automation · SaaS · Agency
+**Areas:** Marketing · Artificial Intelligence · Automation · Software-as-a-Service · Agency
 
 ## Agency Growth on APIs.io
 
@@ -80,17 +80,23 @@ Everything profiled for Agency Growth is published on APIs.io rather than in thi
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agencygrowth-com-mcp.yml](https://apis.io/servers/agencygrowth-com/agencygrowth-com-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agencygrowth Com Domain Security](https://apis.io/security/agencygrowth-com/agencygrowth-com-domain-security/)
+- [Agency Growth Domain Security](https://apis.io/security/agencygrowth-com/agencygrowth-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agencygrowth Com Plans Pricing](https://apis.io/plans/agencygrowth-com/agencygrowth-com-plans-pricing/)
+- [Agency Growth Plans Pricing](https://apis.io/plans/agencygrowth-com/agencygrowth-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -106,18 +112,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.6** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 23.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
+| Discoverability | 63.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 60.0 |
+| Access clarity | 63.8 |
 
-**Agent readiness 8.9** — agent-aware
+**Agent readiness 9.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -142,8 +148,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agencygrowth-com/](https://apis.io/providers/agencygrowth-com/).
 
